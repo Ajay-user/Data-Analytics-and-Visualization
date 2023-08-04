@@ -13,4 +13,4 @@ Checkout the repo to learn more about data visualization
 
 📢 Note : Under active development | more contents will be posted shortly
 
-<img src='./Seaborn/JointGrid/plots/joint-grid--14.png'>
+<img src='./Seaborn/PairGrid/plots/pair-grid-14.png'>
